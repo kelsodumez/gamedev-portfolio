@@ -1,14 +1,13 @@
 import ProjectData from '@/data/ProjectData.ts'
 
 export default [
-    new ProjectData("project-1", "Optimistic Chubby", "img/projects/project-1-icon.png", 
+    new ProjectData("project-1", "Coldstar", "img/projects/project-1-icon.png", 
     `
     <div class="paragraph">
-     <strong>Optimistic Chubby</strong> is a thing of beauty that I am so proud of. It's available on Android because why not.
-     <br/>Image by <a href="https://www.pexels.com/fr-fr/@knownasovan" target="_blank">OVAN</a>.
+     <strong>Coldstar</strong> is a immersive VR escape room I made with a colleague where the player must repair their ship before it hurtles into the star it orbits.
     </div>
     <div class="paragraph center">
-        <iframe class="youtube" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
+        <iframe class="youtube" src="https://youtu.be/9O4_VzIwzgI" frameborder="0" allowfullscreen></iframe>
     </div>
     <div class="paragraph center">
         <a href="https://play.google.com/store/apps/details?id=some.playstore.thing" target="_blank"><img src="img/projects/play-store-logo.png" alt="Play Store badge" /></a>
@@ -17,16 +16,21 @@ export default [
     <div class="paragraph">
         Main features :
         <ul>
-        <li>Some stuff</li>
-        <li>Some great stuff</li>
+        <li>Atmospheric, immersive</li>
+        <li>Utilizes Unity's XR package to create an </li>
         <li>More awesome stuff</li>
         <li>And then some</li>
         </ul>
+
+        <div class="notice">
+        Download a free copy on <a href="TODO fill in" target="_blank">itch.io</a>.
+        Source code is available on <a href="https://github.com/oliver-coates/Coldstar" target="_blank">GitHub</a>.
+        </div>
     </div>
 
     <div class="paragraph center">
-        <img class="phone-screenshot" src="https://fakeimg.pl/300x534/" alt="Optimistic Chubby Screenshot" />
-        <img class="phone-screenshot" src="https://fakeimg.pl/300x534/" alt="Optimistic Chubby Screenshot" />
+        <img class="phone-screenshot" src="https://fakeimg.pl/300x534/" alt="Coldstar Screenshot" />
+        <img class="phone-screenshot" src="https://fakeimg.pl/300x534/" alt="Coldstar Screenshot" />
     </div>
     `, "#23bd69", true),
     new ProjectData("project-2", "Singing Addict", "img/projects/project-2-icon.png", `
