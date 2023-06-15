@@ -9,7 +9,7 @@
 
       <li>
         <i class="fa fa-envelope-o fa-lg fa-fw"></i>
-        <a href="mailto:kelsodumez@email.com" target="_blank">kelsodumez@email.com</a>
+        <a href="mailto:kelsodumez@email.com" target="_blank">kelsodumez@gmail.com</a>
       </li>
 
       <li>
@@ -18,7 +18,7 @@
       </li>
       <li>
         <i class="fa fa-gamepad fa-lg fa-fw"></i>
-        <a href="https://kelso.itch.io" target="_blank">keslo.itch.io</a>
+        <a href="https://keslo.itch.io" target="_blank">keslo.itch.io</a>
       </li>
     </ul>
 
