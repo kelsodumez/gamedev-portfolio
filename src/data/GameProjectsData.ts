@@ -32,7 +32,7 @@ export default [
 
         <li>Programming</li>
         <ul>
-        <li>Made use of key design patterns to implement several scripts in Coldstar</li>
+        <li>Made use of key design patterns to implement several scripts; Such as shooting the cold gun, swiping the access card, etc.</li>
         </ul>
         </ul>
 
@@ -65,6 +65,13 @@ export default [
     </div>
 
     <div class="paragraph">
+    Skills used:
+    <ul>
+    <li>Used the Unity XR toolkit to create a compelling VR experience
+    <li>Used blender to implement several models, such as a handle, hook, etc.
+    <li>Implemented Design Patterns in order to check if movements are within timing
+    </ul>
+
     <div class="notice">
         Source code is available on <a href="https://github.com/kelsodumez/hook-line-and-sinker" target="_blank">GitHub</a>.
     </div>
@@ -73,7 +80,7 @@ export default [
     <div class="paragraph center">
     <img class="pc-screenshot" src="img/projects/boat.png" alt="fish screenshot" />
     </div>
-    `, "#5a78af", true),
+    `, "#5a78af", false),
 
     new ProjectData("project-3", "Star Jumper", "img/projects/starjumper.png", `
     <div class="paragraph">
@@ -115,33 +122,33 @@ export default [
 
     </div>
     `, "#383838", true),
-//     new ProjectData("project-4", "Eugeneable", "img/projects/project-4-icon.png", `
-//     <div class="paragraph">
-//     <strong>Eugeneable</strong> is a thing of beauty that I am so proud of. I could write about it for hours.
-//     <br/>Image by <a target="_blank" href="https://www.pexels.com/fr-fr/@neo8iam">NEOSiAM 2020</a>.
-//     </div>
+    new ProjectData("project-4", "Parkour Adventure", "img/projects/parkour-adventure.png", `
+    <div class="paragraph">
+    <strong>Parkour Adventure</strong> is a VR platformer I made for my Immersive Game Design course
+    </div>
     
-//     <div class="paragraph">
-//         Main features :
-//         <ul>
-//         <li>Some stuff</li>
-//         <li>Some great stuff</li>
-//         <li>More awesome stuff</li>
-//         <li>And then some</li>
-//         </ul>
-//     </div>
+    <div class="paragraph">
+        <ul>
+        <li><b>Genre:</b> VR, Platformer</li>
+        <li><b>Engine:</b> Unity</li>
+        <li><b>Team Size:</b> 1</li>
+        </ul>   
+    </div>
 
-//     <div class="paragraph">
-//         <div class="notice">
-//         Windows build available on <a href="https://some.where/nice" target="_blank">itch.io</a>.
-//         </div>
-//     </div>
+    <div class="paragraph">
+        Skills used:
+        <ul>
+        <li>Used the Unity XR toolkit to create a compelling VR experience, making use of tools such as sockets, etc.
+        </ul>
 
-//     <div class="paragraph center">
-//         <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Eugeneable Screenshot" />
-//         <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Eugeneable Screenshot" />
-//     </div>
-//     `, "#e80fb7"),
+        <div class="notice">
+        Source code is available on <a href="https://github.com/kelsodumez/parkour-adventure" target="_blank">GitHub</a>.
+        </div>
+
+    <div class="paragraph center">
+        <img class="pc-screenshot" src="img/projects/parkour-adventure.png" alt="Eugeneable Screenshot" />
+    </div>
+    `, "#e80fb7"),
 // //     new ProjectData("project-5", "Cloud Drew Land", "img/projects/project-5-icon.png", `
 // //     <div class="paragraph">
 // //         <strong>Cloud Drew Land</strong> is a thing of beauty that I am so proud of. I could write about it for hours.
