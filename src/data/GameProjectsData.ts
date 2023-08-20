@@ -51,36 +51,35 @@ export default [
     `, "#cd8965", true),
 
 
-    new ProjectData("project-2", "Hook, Line & Sinker", "img/projects/boat.png", `
+    new ProjectData("project-2", "Tuhua", "img/projects/boat.png", `
     <div class="paragraph">
-        <strong>Hook, Line & Sinker</strong> is a VR fitness & rythm game where you swing fishing hooks to catch fish flying towards you
+        <strong>Tuhua</strong> is a serious text-based game made for a client project where the player must work through a series of small narratives in order to maximise the amount of lives they save in a volcanic emergency. The main intention of this game is to educate about the appropriate actions to take in the event of an eruption.
     </div>
 
     <div class="paragraph">
         <ul>
-        <li><b>Genre:</b> VR, Fitness, Rythm</li>
-        <li><b>Engine:</b> Unity</li>
-        <li><b>Team Size:</b> 1</li>
+        <li><b>Genre:</b> Text-based, Educational, Narrative</li>
+        <li><b>Engine:</b> Unity WebGL</li>
+        <li><b>Team Size:</b> 6</li>
         </ul>   
     </div>
 
     <div class="paragraph">
     Skills used:
     <ul>
-    <li>Used the Unity XR toolkit to create a compelling VR experience
-    <li>Used blender to implement several models, such as a handle, hook, etc.
-    <li>Implemented Design Patterns in order to check if movements are within timing
+    <li>Made key design decisions throughout production</li>
+    <li>Was writer for the project, with some editing by another group member
     </ul>
 
     <div class="notice">
-        Source code is available on <a href="https://github.com/kelsodumez/hook-line-and-sinker" target="_blank">GitHub</a>.
+        A WebGL build of the game is available on <a href="https://olivercoates1.itch.io/tuhua" target="_blank">Itch</a>.
     </div>
     </div>
 
     <div class="paragraph center">
     <img class="pc-screenshot" src="img/projects/boat.png" alt="fish screenshot" />
     </div>
-    `, "#5a78af", false),
+    `, "#5a78af", true),
 
     new ProjectData("project-3", "Star Jumper", "img/projects/starjumper.png", `
     <div class="paragraph">
@@ -122,33 +121,33 @@ export default [
 
     </div>
     `, "#383838", true),
-    new ProjectData("project-4", "Parkour Adventure", "img/projects/parkour-adventure.png", `
-    <div class="paragraph">
-    <strong>Parkour Adventure</strong> is a VR platformer I made for my Immersive Game Design course
-    </div>
+    // new ProjectData("project-4", "Parkour Adventure", "img/projects/parkour-adventure.png", `
+    // <div class="paragraph">
+    // <strong>Parkour Adventure</strong> is a VR platformer I made for my Immersive Game Design course
+    // </div>
     
-    <div class="paragraph">
-        <ul>
-        <li><b>Genre:</b> VR, Platformer</li>
-        <li><b>Engine:</b> Unity</li>
-        <li><b>Team Size:</b> 1</li>
-        </ul>   
-    </div>
+    // <div class="paragraph">
+    //     <ul>
+    //     <li><b>Genre:</b> VR, Platformer</li>
+    //     <li><b>Engine:</b> Unity</li>
+    //     <li><b>Team Size:</b> 1</li>
+    //     </ul>   
+    // </div>
 
-    <div class="paragraph">
-        Skills used:
-        <ul>
-        <li>Used the Unity XR toolkit to create a compelling VR experience, making use of tools such as sockets, etc.
-        </ul>
+    // <div class="paragraph">
+    //     Skills used:
+    //     <ul>
+    //     <li>Used the Unity XR toolkit to create a compelling VR experience, making use of tools such as sockets, etc.
+    //     </ul>
 
-        <div class="notice">
-        Source code is available on <a href="https://github.com/kelsodumez/parkour-adventure" target="_blank">GitHub</a>.
-        </div>
+    //     <div class="notice">
+    //     Source code is available on <a href="https://github.com/kelsodumez/parkour-adventure" target="_blank">GitHub</a>.
+    //     </div>
 
-    <div class="paragraph center">
-        <img class="pc-screenshot" src="img/projects/parkour-adventure.png" alt="Eugeneable Screenshot" />
-    </div>
-    `, "#e80fb7"),
+    // <div class="paragraph center">
+    //     <img class="pc-screenshot" src="img/projects/parkour-adventure.png" alt="Eugeneable Screenshot" />
+    // </div>
+    // `, "#e80fb7"),
 // //     new ProjectData("project-5", "Cloud Drew Land", "img/projects/project-5-icon.png", `
 // //     <div class="paragraph">
 // //         <strong>Cloud Drew Land</strong> is a thing of beauty that I am so proud of. I could write about it for hours.
