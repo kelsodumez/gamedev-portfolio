@@ -51,7 +51,7 @@ export default [
     `, "#cd8965", true),
 
 
-    new ProjectData("project-2", "Tuhua", "img/projects/eruption.png", `
+    new ProjectData("project-2", "Tuhua", "img/projects/tuhuacover.png", `
     <div class="paragraph">
         <strong>Tuhua</strong> is a serious text-based game made for a client project where the player must work through a series of small narratives in order to maximise the amount of lives they save in a volcanic emergency. The main intention of this game is to educate about the appropriate actions to take in the event of an eruption.
     </div>
