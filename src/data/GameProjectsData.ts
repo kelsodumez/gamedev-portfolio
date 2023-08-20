@@ -51,7 +51,7 @@ export default [
     `, "#cd8965", true),
 
 
-    new ProjectData("project-2", "Tuhua", "img/projects/boat.png", `
+    new ProjectData("project-2", "Tuhua", "img/projects/eruption.png", `
     <div class="paragraph">
         <strong>Tuhua</strong> is a serious text-based game made for a client project where the player must work through a series of small narratives in order to maximise the amount of lives they save in a volcanic emergency. The main intention of this game is to educate about the appropriate actions to take in the event of an eruption.
     </div>
@@ -77,9 +77,15 @@ export default [
     </div>
 
     <div class="paragraph center">
-    <img class="pc-screenshot" src="img/projects/boat.png" alt="fish screenshot" />
+    <img class="pc-screenshot" src="img/projects/couplewindow.png" alt="View from window of Tuhua's eruption" />
+    <img class="pc-screenshot" src="img/projects/garage.png" alt="Jeremy looking for jumper cables" />
+    <img class="pc-screenshot" src="img/projects/exterior.png" alt="Jeremy picking up grant" />
+    <img class="pc-screenshot" src="img/projects/emergencyvehicle.png" alt="Firetrucks passing Jeremy & Grant" />
+    <img class="pc-screenshot" src="img/projects/ashcloud.png" alt="Jeremy & Grant driving through ash" />
+    <img class="pc-screenshot" src="img/projects/eruption.png" alt="Tuhua erupting" />
+
     </div>
-    `, "#5a78af", true),
+    `, "#DA4756", true),
 
     new ProjectData("project-3", "Star Jumper", "img/projects/starjumper.png", `
     <div class="paragraph">
