@@ -56,6 +56,10 @@ export default [
         <strong>Tuhua</strong> is a serious text-based game made for a client project where the player must work through a series of small narratives in order to maximise the amount of lives they save in a volcanic emergency. The main intention of this game is to educate about the appropriate actions to take in the event of an eruption.
     </div>
 
+    <div class="paragraph center">
+    <iframe class="youtube" src="https://www.youtube.com/embed/B3HxeH0Z9Ok" title="Tuhua demo" frameborder="0" allowfullscreen></iframe>
+    </div>
+
     <div class="paragraph">
         <ul>
         <li><b>Genre:</b> Text-based, Educational, Narrative</li>
