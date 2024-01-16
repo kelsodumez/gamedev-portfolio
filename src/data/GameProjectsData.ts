@@ -132,34 +132,48 @@ export default [
         <img class="pc-screenshot" src="img/projects/starjumper.png" alt="screenshot" />
 
     </div>
-    `, "#383838", true),
-    // new ProjectData("project-4", "Parkour Adventure", "img/projects/parkour-adventure.png", `
-    // <div class="paragraph">
-    // <strong>Parkour Adventure</strong> is a VR platformer I made for my Immersive Game Design course
-    // </div>
+    `, "#383838"),
+    new ProjectData("project-4", "MASS DRIVER", "img/projects/massdrivercover.png", `
+    <div class="paragraph">
+    <strong>Mass Driver </strong>is a fast paced movement shooter in which you need to escape a facility after having planted a bomb, there's just one catch - you can change gravity on a whim.
+    </div>
+    <div class="paragraph">
+    <div class="paragraph center">
+        <iframe class="youtube" src="https://www.youtube.com/embed/NQ1yLrbjHrc" title="MASS DRIVER Trailer" frameborder="0" allowfullscreen></iframe>
+    </div>
+
+    Fight through a proceduraly generated subterranian facility using gravity change, a railgun and a dashing to make it to safety
+    </div>
     
-    // <div class="paragraph">
-    //     <ul>
-    //     <li><b>Genre:</b> VR, Platformer</li>
-    //     <li><b>Engine:</b> Unity</li>
-    //     <li><b>Team Size:</b> 1</li>
-    //     </ul>   
-    // </div>
+    <div class="paragraph">
 
-    // <div class="paragraph">
-    //     Skills used:
-    //     <ul>
-    //     <li>Used the Unity XR toolkit to create a compelling VR experience, making use of tools such as sockets, etc.
-    //     </ul>
+    The bomb is planted... you have 8 minutes to escape.
+    </div>
+    
+    <div class="paragraph">
 
-    //     <div class="notice">
-    //     Source code is available on <a href="https://github.com/kelsodumez/parkour-adventure" target="_blank">GitHub</a>.
-    //     </div>
+    This project was made over 6 weeks for the University of Canterbury's Prod 222 course.
+    </div>
+    
+    <div class="paragraph">
+        <ul>
+        <li><b>Genre:</b> First Person Shooter, Movement</li>
+        <li><b>Engine:</b> Unity</li>
+        <li><b>Team Size:</b> 6</li>
+        </ul>   
+    </div>
 
-    // <div class="paragraph center">
-    //     <img class="pc-screenshot" src="img/projects/parkour-adventure.png" alt="Eugeneable Screenshot" />
-    // </div>
-    // `, "#e80fb7"),
+    <div class="paragraph">
+        Skills used:
+        <ul>
+        <li>Collaborative Programming</li>
+        <li>Project Management & Version Control</li>
+        </ul>
+
+        <div class="notice">
+        Download a free copy on <a href="https://olivercoates1.itch.io/mass-driver" target="_blank">itch.io</a>.
+        </div>
+    `),
 // //     new ProjectData("project-5", "Cloud Drew Land", "img/projects/project-5-icon.png", `
 // //     <div class="paragraph">
 // //         <strong>Cloud Drew Land</strong> is a thing of beauty that I am so proud of. I could write about it for hours.
