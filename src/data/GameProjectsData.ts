@@ -45,8 +45,81 @@ export default [
             </div>
         `,"#000000", true, true),
 
-
+    new ProjectData("project-5", "Rendering Planets", "img/projects/planets-cover2.png", `
+        <div class="paragraph">
+        For my interactive computer graphics & animation course (PROD321), I was tasked with utilising real-time 3D graphics techniques in order to create my own solar system.
+        </div>
+        <div class="paragraph">
+        <div class="paragraph center">
+            <iframe class="youtube" src="https://www.youtube.com/embed/YRQWEi5wMcM" title="Video walkthrough" frameborder="0" allowfullscreen></iframe>
+        </div>
+        </div>
+        I learnt a lot about utilising 3D graphics techniques from this assignment, a non exhaustive list of the techniques I used includes:
+            <ul>
+                <li>Creating icospheres at run-time using height maps</li>
+                <li>Using UV and BRDF Maps</li>
+                <li>Manually assigning vertex colours</li>
+                <li>Using vector mathematics to place objects relative to the normal of a sphere, as well as other applications of vector maths</li>
+                <li>Object placement maps</li>
+                <li>Environment mapping using cube map textures</li>
+                <li>Emission maps, projective textures, & particle effects</li>
+                <li>etc.</li>
+            </ul>
+        </div>
         
+        `,"#000000", false, false),
+
+    new ProjectData("project-6", "Clancy Duncan's Shadow Recon", "img/projects/CDSR-cover.png", `
+        <div class="paragraph">
+        aa
+        </div>
+        <div class="paragraph">
+        <div class="paragraph center">
+            <iframe class="youtube" src="https://www.youtube.com/embed/2_k8MIQ6n74" title="Clancy Duncan's Shadow Recon Playthrough" frameborder="0" allowfullscreen></iframe>
+        </div>
+        </div>
+        This project encapsulates a couple different assignments I was tasked with, 
+            <ul>
+                <li>Creating icospheres at run-time using height maps</li>
+                <li>Using UV and BRDF Maps</li>
+                <li>Manually assigning vertex colours</li>
+                <li>Using vector mathematics to place objects relative to the normal of a sphere, as well as other applications of vector maths</li>
+                <li>Object placement maps</li>
+                <li>Environment mapping using cube map textures</li>
+                <li>Emission maps, projective textures, & particle effects</li>
+                <li>etc.</li>
+            </ul>
+        </div>
+        
+        `,"#000000", true, false),
+
+
+    new ProjectData("project-6", "AI Race Assignment", "img/projects/", `
+        <div class="paragraph">
+        For my interactive computer graphics & animation course (PROD321), i was tasked with utilising real-time 3D graphics techniques in order to create my own solar system.
+        </div>
+        <div class="paragraph">
+        <div class="paragraph center">
+            <iframe class="youtube" src="https://www.youtube.com/embed/2_k8MIQ6n74" title="Clancy Duncan's Shadow Recon Playthrough" frameborder="0" allowfullscreen></iframe>
+        </div>
+        </div>
+        I learnt a lot about utilising 3D graphics techniques from this assignment, a non exhaustive list of the techniques I used includes:
+            <ul>
+                <li>Creating icospheres at run-time using height maps</li>
+                <li>Using UV and BRDF Maps</li>
+                <li>Manually assigning vertex colours</li>
+                <li>Using vector mathematics to place objects relative to the normal of a sphere, as well as other applications of vector maths</li>
+                <li>Object placement maps</li>
+                <li>Environment mapping using cube map textures</li>
+                <li>Emission maps, projective textures, & particle effects</li>
+                <li>etc.</li>
+            </ul>
+        </div>
+        
+        `,"#000000", false, false),
+
+
+    
     new ProjectData("project-2", "Coldstar", "img/projects/planet-view.png", 
     `
     <div class="paragraph">
@@ -94,7 +167,7 @@ export default [
 
 
     </div>
-    `,"#000000", false,),
+    `,"#000000", false,true),
 
     new ProjectData("project-4", "Tuhua", "img/projects/tuhuacover.png", `
         <div class="paragraph">
@@ -142,7 +215,7 @@ export default [
 
     new ProjectData("project-3", "Star Jumper", "img/projects/starjumper.png", `
     <div class="paragraph">
-        <strong>Star Jumper</strong> is an attempt at using procedural generation for a "Hades clone" that i created with some friends in year 13 of High School
+        <strong>Star Jumper</strong> is an attempt at using procedural generation for a "Hades clone" that i created with some friends in year 13 of High School.
         </br> It isnt particularly polished, or even that good; but I wouldn't be the developer I am today without this project, it was just a lot of fun.
     </div>
 
@@ -181,33 +254,4 @@ export default [
 
     </div>
     `,"#000000"),
-
-// //     new ProjectData("project-5", "Cloud Drew Land", "img/projects/project-5-icon.png", `
-// //     <div class="paragraph">
-// //         <strong>Cloud Drew Land</strong> is a thing of beauty that I am so proud of. I could write about it for hours.
-// //         <br/>Image by <a target="_blank" href="https://www.pexels.com/fr-fr/@cottonbro">cottonbro</a>.
-// //     </div>
-    
-// //     <div class="paragraph">
-// //         Main features :
-// //         <ul>
-// //         <li>Some stuff</li>
-// //         <li>Some great stuff</li>
-// //         <li>More awesome stuff</li>
-// //         <li>And then some</li>
-// //         </ul>
-// //     </div>
-
-// //     <div class="paragraph">
-// //         <div class="notice">
-// //         Windows build available on <a href="https://some.where/nice" target="_blank">itch.io</a>.
-// //         Source code available on <a href="https://github.com/yourself" target="_blank">GitHub</a>.
-// //         </div>
-// //     </div>
-
-// //     <div class="paragraph center">
-// //         <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Cloud Drew Land Screenshot" />
-// //         <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Cloud Drew Land Screenshot" />
-// //         <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Cloud Drew Land Screenshot" />
-// //     </div>`, "#e48246")
 ];

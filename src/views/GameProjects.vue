@@ -2,13 +2,13 @@
   <div>
     <h1>Projects</h1>
 
-    <div style="margin-bottom: 30px;">
+    <div style="margin-bottom: 5px;">
       The following are some projects I've worked on.
     </div>
 
     <ProjectsList v-bind:projects="projects" />
 
-    <div style="margin-top: 20px;">
+    <div style="margin-top: 5px;">
       There is more to see on <a target="_blank" href="https://keslo.itch.io">itch.io</a>
     </div>
   </div>
