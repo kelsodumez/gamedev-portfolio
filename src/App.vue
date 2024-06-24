@@ -2,7 +2,7 @@
   <div id="app">
     
     <link rel="stylesheet" href="@/assets/projects/projects.css" type="text/css">
-
+    <meta name="google-site-verification" content="jSwwfhz62Rnixa-nsq8B-QlQosC0h8VvVhn35DlJr54" />
     <Header />
     <div class="main">
       <transition name="fade" mode="out-in">
@@ -34,11 +34,12 @@ Helpers.preloadImages([
 ]);
 
 </script>
-
+<meta name="google-site-verification" content="jSwwfhz62Rnixa-nsq8B-QlQosC0h8VvVhn35DlJr54" />
 <style lang="less">
 
 @import './css/projects.less';
 @import './css/variables.less';
+
 
 html, body {
   margin: 0px;

@@ -3,7 +3,7 @@
     
     <h1>Let's get in touch</h1>
 
-    <div style="margin-bottom:40px;">I'm looking for an internship!<br/>Feel free to contact me about any opportunity</div>
+    <div style="margin-bottom:40px;">I'm looking for an internship!<br/>Feel free to contact me for anything</div>
 
     <ul>
 
@@ -14,11 +14,15 @@
 
       <li>
         <i class="fa fa-github fa-lg fa-fw"></i>
-        <a href="https://github.com/kelsodumez" target="_blank">github.com/kelsodumez</a>
+        <a href="https://github.com/kelsodumez" target="_blank">GitHub</a>
       </li>
       <li>
         <i class="fa fa-gamepad fa-lg fa-fw"></i>
-        <a href="https://keslo.itch.io" target="_blank">keslo.itch.io</a>
+        <a href="https://keslo.itch.io" target="_blank">itch.io</a>
+      </li>
+      <li>
+        <i class="fa fa-linkedin fa-lg fa-fw"></i>
+        <a href="https://www.linkedin.com/in/kelso-du-mez-85b793315/" target="_blank">LinkedIn</a>
       </li>
     </ul>
 

@@ -20,7 +20,7 @@
       </div>
     </div>
     <div class="photo">
-      <img src="img/resume-photo.png" height="224" width="224" alt="Kelso du Mez"/>
+      <img src="img/resume-photo-modified.png" height="224" width="224" alt="Kelso du Mez"/>
     </div>
 
     <div style="clear:both"></div>
@@ -73,8 +73,8 @@
 
       <h2>Education</h2>
 
-      <h3>University of Canterbury (2020 - present)</h3>
-      <h4>Bachelors of Product Design</h4>
+      <h3>University of Canterbury (2021 - present)</h3>
+      <h4>Bachelor of Product Design</h4>
       <div>Majoring in Applied Immersive Game Design</div>
 
     </div>
